@@ -1,0 +1,4 @@
+name = Menu Collapse
+description = Make menu attributes collapsed by default in content entry.
+core = 7.x
+dependencies[] = menu_attributes
